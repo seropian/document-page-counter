@@ -11,7 +11,7 @@ Execute the following in the directory where the jar is located (or add the jar 
 
 `java -jar DocumentPageCounter-0.2-full.jar <target directory>`
 
-##Building
+## Building
 
 Execute in the project root directory:
 
@@ -19,7 +19,7 @@ Execute in the project root directory:
 
 After the build the executable jar shall be found in the `target` directory.
 
-##Requirements
+## Requirements
 
 Requirements for building: java8, maven 3
 
